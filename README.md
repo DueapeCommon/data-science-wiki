@@ -1,2 +1,38 @@
-# data-science-wiki
-数据科学知识点Wiki百科
+# 数据科学知识点Wiki百科
+
+- Linux知识点
+  - 系统介绍
+  - 文件系统
+  - 常见命令行操作
+- Python知识点
+  - 常见语法
+  - 文件操作
+  - 网络操作
+  - 性能优化
+- Python常见库
+  - Numpy
+  - Pandas
+  - SciPy
+  - h5py
+  - joblib
+  - tqdm
+  - 数据可视化
+    - Matplotlib
+    - seaborn
+  - 机器学习
+    - scikit-learn
+    - XGBoost
+    - LightGBM
+    - CatBoost
+  - 计算机视觉
+    - Pillow
+    - ImageHash
+    - OpenCV
+    - scikit-image
+    - dlib
+    - mmdection
+  - 深度学习
+    - TensorFlow
+    - MXNet
+    - Pytorch
+    - Keras
