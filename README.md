@@ -1,6 +1,6 @@
 # 数据科学知识点Wiki百科
 
-- Linux知识点
+- [Linux知识点](wiki/linux.md)
   - 系统介绍
   - 文件系统
   - 常见命令行操作
